@@ -1,6 +1,6 @@
-team: Donald
+team: Leopards
 ​
-manager: John
+manager: Luke
 ​
 members:
 - Linda
