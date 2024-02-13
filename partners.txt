@@ -1,6 +1,6 @@
 team: Panthers
 ​
-manager: Sebastian
+manager: MainSebastian
 ​
 coach : Teddy
 
