@@ -1,6 +1,8 @@
 team: Donald
 ​
 manager: John
+
+coach : grace
 ​
 members:
 - Linda
